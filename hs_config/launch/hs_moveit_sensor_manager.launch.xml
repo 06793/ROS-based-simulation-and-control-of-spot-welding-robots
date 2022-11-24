@@ -1,0 +1,3 @@
+<launch>
+  <rosparam command="load" file="$(find hs_config)/config/sensors_rgbd.yaml" />
+</launch>

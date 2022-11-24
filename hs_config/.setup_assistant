@@ -1,0 +1,10 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: hs
+    relative_path: urdf/hs.urdf
+  SRDF:
+    relative_path: config/hs.srdf
+  CONFIG:
+    author_name: c
+    author_email: 494330779@qq.com
+    generated_timestamp: 1527326636
